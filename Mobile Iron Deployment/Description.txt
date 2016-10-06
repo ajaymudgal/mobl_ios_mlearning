@@ -1,0 +1,17 @@
+Audience: Japan/China Users
+<b>Audience Disclaimer:</b>This app should only be downloaded by a user within the appropriate audience group listed.  Per the Red Book, any known or suspected violations may be appropriately reported for further investigation.
+
+Device: iPad
+
+Pre-requisite: None
+
+mLearning app makes it easy to distribute and track mobile-friendly training content to on-the-go workers via their iPads. After installing the mLearning app, mobile workers can sync a wide variety of business and learning content including video/audio content, downloaded training modules, PDF and ePUB files, and animated slide presentations with tests.  mLearning makes just-in-time training a practical reality for Lilly employees.
+
+What's New:
+Version 5.6.13
+- Security Update.
+Version 5.6.12
+- Updated provisioning profile
+- Configured SSO implementation
+Version 5.5.21
+- Upgrade for iOS 8.1.3
